@@ -1,0 +1,7 @@
+/*
+/*/
+!/src/
+!.gitignore
+!README.md
+src/data/*
+src/cogs/__pycache__/*
